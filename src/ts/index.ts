@@ -5,4 +5,4 @@ import $ from 'jquery';
 window.$ = $;
 window.jQuery = $;
 
-import '../assets/js/jquery-plugins.js'
+import '../assets/js/jquery-plugins.js';

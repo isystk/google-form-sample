@@ -20,6 +20,8 @@ Webpack5 のサンプルアプリケーションです。
 ## 🌐 Demo
 https://isystk.github.io/google-form-sample/
 
+![demo](./demo.png "demo")
+
 
 ## 📦 ディレクトリ構造
 ```
