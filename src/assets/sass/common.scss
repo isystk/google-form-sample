@@ -408,14 +408,7 @@ header .logo {
 
 /* フォーム
 ------------------------------------- */
-.form-section input[type='text'],
-.form-section input[type='email'],
-.form-section input[type='tel'],
-.form-section input[type='date'],
-.form-section input[type='url'],
-.form-section input[type='password'],
-.form-section input[type='search'],
-.form-section input[type='file'],
+.form-section input,
 .form-section textarea {
   border: none;
   outline: none;
