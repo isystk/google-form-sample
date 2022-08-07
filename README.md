@@ -1,9 +1,9 @@
-# 🌙 webpack5-template
+# 🌙 google-form-sample
 
-![GitHub issues](https://img.shields.io/github/issues/isystk/webpack5-template)
-![GitHub forks](https://img.shields.io/github/forks/isystk/webpack5-template)
-![GitHub stars](https://img.shields.io/github/stars/isystk/webpack5-template)
-![GitHub license](https://img.shields.io/github/license/isystk/webpack5-template)
+![GitHub issues](https://img.shields.io/github/issues/isystk/google-form-sample)
+![GitHub forks](https://img.shields.io/github/forks/isystk/google-form-sample)
+![GitHub stars](https://img.shields.io/github/stars/isystk/google-form-sample)
+![GitHub license](https://img.shields.io/github/license/isystk/google-form-sample)
 
 ## 📗 プロジェクトの概要
 
@@ -18,7 +18,7 @@ Webpack5 のサンプルアプリケーションです。
 - Prettier 
 
 ## 🌐 Demo
-https://isystk.github.io/webpack5-template/
+https://isystk.github.io/google-form-sample/
 
 
 ## 📦 ディレクトリ構造
@@ -72,7 +72,7 @@ $ yarn dev
 
 ## 🎫 Licence
 
-[MIT](https://github.com/isystk/webpack5-template/blob/master/LICENSE)
+[MIT](https://github.com/isystk/google-form-sample/blob/master/LICENSE)
 
 ## 👀 Author
 
